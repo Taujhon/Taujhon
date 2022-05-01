@@ -1,4 +1,4 @@
-Hi. My name is Taujhon. I draw and I music. I like seeing other peoples' project development.
+Many of all to see. This I must.
 
 <!---
 Taujhon/Taujhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
