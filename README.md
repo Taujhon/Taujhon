@@ -1,4 +1,4 @@
-Hey there! Developer wannabe here!<br />
+Heya! Taujhon here!<br />
 Currently studying the following programming languages:
 - Java
 - C++
